@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-2044-hello-world-governance-vote-token-and-proposal",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-2044-hello-world-governance-vote-token-and-proposal": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-2044-hello-world-governance-vote-token-and-proposal",
+    "origin"
+  ]
+}
